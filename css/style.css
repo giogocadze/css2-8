@@ -1,0 +1,56 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#mainContainer {
+    border: 96px solid #FFAEAF;
+    padding: 96px 66px;
+    text-align: center;
+}
+
+header {
+    width: 1280px;
+    margin: auto;
+    margin-bottom: 96px;
+}
+
+header h1 {
+    color: #181D27;
+    text-align: center;
+    font-size: 48px;
+    margin-bottom: 24px;
+
+}
+
+#paraghrap {
+    color: #ED00A6;
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 12px;
+}
+
+#interviewParaghrap {
+    color: #535862;
+    text-align: center;
+    font-size: 20px;
+}
+
+#education {
+    text-align: left;
+    margin-bottom: 96px;
+    width: 100%;
+}
+
+#ComputerPhoto {
+    text-align: right;
+    margin-bottom: 96px;
+    width: 100%;
+}
+
+#glassConstruction {
+    text-align: left;
+    margin-bottom: 96px;
+    width: 100%;
+}
